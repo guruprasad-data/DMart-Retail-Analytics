@@ -86,4 +86,14 @@ Author
 
 Guruprasad
 
+## Power BI Dashboard Screenshots
+
+### 1. Executive Dashboard
+
+![Executive Dashboard](Executive_Dashboard.png.jpeg)
+
+### 2. DAX Analysis Dashboard
+
+![DAX Analysis](DAX_Analysis.png.jpeg)
+
 Aspiring Data Analyst | Excel | MySQL | Power BI
