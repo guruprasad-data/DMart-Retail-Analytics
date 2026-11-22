@@ -72,7 +72,7 @@ Key Business Insights
 - Monthly and regional sales patterns were explored using Power BI visualisations.
 
 Project Files
-
+- `DMart cleaned.xlsx` – Cleaned dataset prepared using Microsoft Excel.
 - Power BI dashboard: "DMart_Retail_Analytics_Dashboard.pbix"
 - Final project report: "DMart_Retail_Analytics_Project_Report_Final.pdf"
 
